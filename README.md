@@ -33,12 +33,11 @@ The objective is to understand network quality, compare operator performance, id
 ## Power BI Dashboard
 
 ### Page 1 — Network Performance Overview
-
 ![Network Performance Overview](Screenshots/Dashboard_Page1_Network_Performance.png)
 
 ### Page 2 — Customer Complaints Analysis
-
 ![Customer Complaints Analysis](Screenshots/Dashboard_Page2_Complaints_Analysis.png)
+
 ## Key Dashboard Metrics
 - Total Records: 50,000
 - Average Download Speed: 73.68 Mbps
